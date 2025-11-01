@@ -1,57 +1,83 @@
-<h2 align="left">Hi 👋! My name is Amdjed Dariadi and I'm a Full Stack Developer, from Algeria </h2>
+<h1 align="center">👋 Hey there! I'm <span style="color:#00ffbb;">Amdjed Dariadi</span></h1>
+<h3 align="center">💻 Game Developer • AI Enthusiast • Full-Stack Learner</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;AI+Engineer+in+the+Making+%F0%9F%A4%96;Founder+of+Vraen+Games+%F0%9F%8E%89" alt="Typing SVG" />
+</p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJhZ212emM2b3BuMHpjZHV1ZXdiNmMwM2JoODB1dmR3eG1vOTZmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+---
 
-###
+### 🌟 About Me
+> I'm a passionate developer from **Algeria 🇩🇿**, focused on **Artificial Intelligence**, **Game Development**, and **Full Stack** projects.  
+> Currently learning new technologies every day and building awesome stuff with my team at **Vraen Games** 🚀  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="46" alt="lua logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="46" alt="arduino logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="46" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="46" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="46" alt="tensorflow logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="46" alt="pytorch logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="46" alt="pandas logo"  />
-</div>
+- 🧠 I love solving problems and creating unique digital experiences  
+- 🎯 My long-term goal: Become a **researcher in AI** and **build innovative tech**  
+- 💬 Ask me about **Python**, **Unity**, or **Roblox Studio**  
+- 🌱 Currently exploring: **Machine Learning**, **Backend Development**, and **Roblox LuaU scripting**
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+### 🧰 My Skills
 
-###
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cs,lua" />
+</p>
+
+#### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,pygame,firebase,opencv" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,arduino,robloxstudio" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🧠 **Medical System** | Smart hospital system with face recognition & Arduino robot delivery | Python, OpenCV, Firebase |
+| 📊 **Data Insights Dashboard** | Data visualization app with analytics & metrics | Python, Pandas, Matplotlib |
+| 🌦️ **Weather API Test** | Simple weather app with beautiful UI | Python, WeatherAPI |
+| 🎮 **FlappyBird MVP** | Classic arcade game clone built with PyGame | Python, PyGame |
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariadi-amdjed&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://discord.com/users/YourDiscordID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://facebook.com/YourFacebook" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/YourInstagram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:daryadiamdjed@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&color=00ffbb&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">🎵 "Keep coding, keep dreaming, keep creating!" — <b>Amdjed Dariadi</b> 🚀</p>
