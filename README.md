@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00ffbb;">Amdjed Dariadi</span></h1>
-<h3 align="center">💻 Game Developer • AI Enthusiast • Full-Stack Learner</h3>
+<h3 align="center">💻 Game Developer • ML Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;AI+Engineer+in+the+Making+%F0%9F%A4%96;Founder+of+Vraen+Games+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;ML+Engineer+%F0%9F%A4%96;Founder+of+Vraen+Games+%F0%9F%8E%89" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,10 +11,9 @@
 > I'm a passionate developer from **Algeria 🇩🇿**, focused on **Artificial Intelligence**, **Game Development**, and **Full Stack** projects.  
 > Currently learning new technologies every day and building awesome stuff with my team at **Vraen Games** 🚀  
 
-- 🧠 I love solving problems and creating unique digital experiences  
-- 🎯 My long-term goal: Become a **researcher in AI** and **build innovative tech**  
-- 💬 Ask me about **Python**, **Unity**, or **Roblox Studio**  
-- 🌱 Currently exploring: **Machine Learning**, **Backend Development**, and **Roblox LuaU scripting**
+- 🧠 I love solving problems and creating unique digital experiences   
+- 💬 Ask me about **ML Engineering**, **Unity**, or **Roblox Studio**  
+- 🌱 Currently exploring: **Backend Development**, and **Roblox LuaU scripting**
 
 ---
 
@@ -58,13 +57,13 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.com/users/YourDiscordID" target="_blank">
+  <a href="https://discord.com/users/864248525030424576" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-  <a href="https://facebook.com/YourFacebook" target="_blank">
+  <a href="https://www.facebook.com/MijoOfficial1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/YourInstagram" target="_blank">
+  <a href="https://www.instagram.com/amdjed.game/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="mailto:daryadiamdjed@gmail.com" target="_blank">
