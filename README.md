@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00ffbb;">Amdjed Dariadi</span></h1>
-<h3 align="center">💻 Game Developer • Software Developer</h3>
+<h3 align="center">💻 Game Developer • Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;ML+Engineer+%F0%9F%A4%96;Founder+of+Vraen+Games+%F0%9F%8E%89" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 ---
 
 ### 🌟 About Me
-> I'm a passionate developer from **Algeria 🇩🇿**, focused on **Artificial Intelligence**, **Game Development**, and **Software** projects.  
+> I'm a passionate developer from **Algeria 🇩🇿**, focused on **Game Development**, and **Software Engineering**
 > Currently learning new technologies every day and building awesome stuff  🚀  
 
 - 🧠 I love solving problems and creating unique digital experiences   
-- 💬 Ask me about **AI Engineering**, **Unity**, **Software Developement** or **Roblox Studio**  
+- 💬 Ask me about **Game Developement**, **Unity**, **Software Developement** or **Roblox Studio**  
 - 🌱 Currently exploring: **Arduino/Robotics Development**, and **Ml Engineering**
 
 ---
