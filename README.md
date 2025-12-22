@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00ffbb;">Amdjed Dariadi</span></h1>
-<h3 align="center">💻 Web Developer • Machine Learning</h3>
+<h3 align="center">💻 AI Student • Space Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;ML+Engineer+%F0%9F%A4%96;Founder+of+Vraen+Games+%F0%9F%8E%89" alt="Typing SVG" />
@@ -8,25 +8,22 @@
 ---
 
 ### 🌟 About Me
-> I'm a passionate developer from **Algeria 🇩🇿**, focused on **ML Engineering**, and **Web Developer**
+> I'm a passionate developer from **Algeria 🇩🇿**, focused on **AI Developement**, and **Space **
 > Currently learning new technologies every day and building awesome stuff  🚀  
 
 - 🧠 I love solving problems and creating unique digital experiences   
-- 💬 Ask me about **Web Developement**, **ML Engineering** 
-- 🌱 Currently exploring: **Arduino/Robotics Development**
-
 ---
 
 ### 🧰 My Skills
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,lua,react,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,lua" />
 </p>
 
 #### 🧩 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flask,numpy,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=flask,numpy,pytorch,opencv" />
 </p>
 
 #### ⚙️ Tools & Platforms
@@ -57,12 +54,6 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.com/users/864248525030424576" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-  <a href="https://www.facebook.com/MijoOfficial1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-  </a>
   <a href="https://www.instagram.com/amdjed.game/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
