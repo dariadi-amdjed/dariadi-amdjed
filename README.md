@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00ffbb;">Amdjed Dariadi</span></h1>
-<h3 align="center">🤖 AI & Robotics Student | National Robotics & AI Gold Medalist</h3>
+<h3 align="center">🤖 AI & Robotics Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=AI+Student+%F0%9F%A4%96;Robotics+Enthusiast+%F0%9F%9A%80;Tech+Innovator+%F0%9F%92%BB;Medical+&+Educational+Systems+%F0%9F%93%A5" alt="Typing SVG" />
@@ -34,7 +34,7 @@
 | 🧠 **Medical System** | Smart hospital system with face recognition & Arduino-controlled medicine delivery robot | Python, OpenCV, Firebase, PyFirmata |
 | 🏫 **Smart Class** | Intelligent classroom system integrating IoT and automated workflows | Python, IoT, Automation |
 | 🌦️ **Weather API Test** | Interactive weather app with sleek UI | Python, WeatherAPI |
-| 🎮 **FlappyBird MVP** | Arcade game clone to practice programming fundamentals | Python, PyGame |
+
 
 > 🔗 **See all my projects on GitHub:** [GitHub Profile](https://github.com/dariadi-amdjed)
 
@@ -54,10 +54,10 @@
   <a href="https://www.linkedin.com/in/amdjed-dariadi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/amdjed.game/" target="_blank">
+  <a href="[https://www.instagram.com/amdjed.tech/]" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@amdjed" target="_blank">
+  <a href="[https://www.youtube.com/@amdjed](https://www.youtube.com/@amdjed-tech)" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
   <a href="https://zenodo.org/communities/amdjed-dariadi" target="_blank">
