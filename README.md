@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 > I'm a high school student from **Algeria 🇩🇿**, passionate about **AI, Robotics, and Intelligent Systems**.  
-> I build real-world projects that solve practical problems in **education, healthcare, and autonomous systems**, with applications extending to advanced environments including space robotics.  
+> I build real-world projects that solve practical problems , with applications extending to advanced environments including space robotics.  
 > Currently learning new technologies and exploring AI-driven innovations daily. 🚀
 
 ---
