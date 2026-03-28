@@ -8,22 +8,22 @@
 ---
 
 ### 🌟 Executive Summary
-> I am a high school researcher from **Algeria 🇩🇿** dedicated to advancing the field of **Artificial Intelligence**. My work focuses on developing intelligent frameworks that bridge the gap between theoretical machine learning and real-world applications in healthcare and automation. 
+> I am a high school researcher from **Algeria 🇩🇿** dedicated to advancing the field of **Artificial Intelligence**. My work focuses on developing intelligent frameworks that bridge the gap between theoretical machine learning and real-world applications. 
 >
-> As an active member of the **New York Academy of Sciences (NYAS)** and **AIAA**, I strive to contribute to the global scientific community through rigorous research and innovative AI-driven solutions. My ultimate goal is to lead pioneering research departments that shape the future of technology.
+> As an active member of the **New York Academy of Sciences (NYAS)**, I strive to contribute to the global scientific community through rigorous research and innovative AI-driven solutions. My ultimate goal is to lead pioneering research departments that shape the future of technology.
 
 ---
 
 ### 🔬 Research Focus & Expertise
 
-#### 🧠 Artificial Intelligence & Core Tech
+#### 🧠 Programming Languages and Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,lua,react,html,css,js,vite" />
 </p>
 
-#### 🛠️ Engineering & Deployment
+#### 🛠️ Software and Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,arduino,git,github,vscode,firebase,linux" />
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,firebase,linux," />
 </p>
 
 ---
@@ -52,13 +52,10 @@
   <a href="https://www.linkedin.com/in/amdjed-dariadi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://zenodo.org/communities/amdjed-dariadi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=zenodo" alt="Zenodo" />
-  </a>
   <a href="mailto:daryadiamdjed@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/amdjed.tech/" target="_blank">
+  <a href="https://www.instagram.com/amdjed.dariadi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
