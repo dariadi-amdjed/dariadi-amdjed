@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a 16-year-old developer and researcher from Medea, Algeria. I build AI tools that solve real-world problems — from hospital automation to emergency first-aid guidance. I'm also a volunteer instructor teaching Python & Robotics to 15+ students at Electrobotech.
+I'm a 16-year-old developer and researcher from Medea, Algeria. I build AI tools that solve real-world problems — I'm also a volunteer instructor teaching Python & Robotics to 15+ students at Electrobotech.
 
 Currently leading **Aegis Pulse** — an AI first-aid app — with an international team through the **New York Academy of Sciences (NYAS) Junior Academy**.
 
@@ -34,7 +34,7 @@ Currently leading **Aegis Pulse** — an AI first-aid app — with an internatio
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🚑 **Aegis Pulse** *(in progress)* | AI app that guides bystanders through first-aid during emergencies. Built with an international team via NYAS. | Python · TensorFlow · Firebase |
+| 🚑 **Aegis Pulse** *(in progress)* | AI app that guides bystanders through first-aid during emergencies. Built with an international team via NYAS. | Python · Research · Figma |
 | 🏥 **Medical System** | Smart hospital system: face recognition for doctors, patient registration, Arduino medicine delivery robot. · 🥇 Gold Medal, National Robotics & AI Olympiad | Python · OpenCV · Arduino · Firebase |
 | 🏫 **SmartClass** | AI classroom management: automated CV attendance, IoT fire detection, real-time parent alerts. · 🥇 1st Place, Ministry of Education Innovation Award (Medea) | Python · OpenCV · Arduino |
 | 📊 **Data Insight Board** | Data analysis & visualization dashboard built while learning Python data analytics. | Python · Tkinter · CSV |
