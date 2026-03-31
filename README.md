@@ -35,7 +35,7 @@ Currently leading **Aegis Pulse** — an AI first-aid app — with an internatio
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | 🚑 **Aegis Pulse** *(in progress)* | AI app that guides bystanders through first-aid during emergencies. Built with an international team via NYAS. | Python · Research · Figma |
-| 🏥 **Medical System** | Smart hospital system: face recognition for doctors, patient registration, Arduino medicine delivery robot. · 🥇 Gold Medal, National Robotics & AI Olympiad | Python · OpenCV · Arduino · Firebase |
+| 🏥 **Medical System** | Smart hospital system: face recognition for doctors, patient registration, Arduino medicine delivery robot. · 🥇 Gold Medal, National Robotics & AI Olympiad | Python · OpenCV · Arduino  |
 | 🏫 **SmartClass** | AI classroom management: automated CV attendance, IoT fire detection, real-time parent alerts. · 🥇 1st Place, Ministry of Education Innovation Award (Medea) | Python · OpenCV · Arduino |
 | 📊 **Data Insight Board** | Data analysis & visualization dashboard built while learning Python data analytics. | Python · Tkinter · CSV |
 
@@ -44,7 +44,6 @@ Currently leading **Aegis Pulse** — an AI first-aid app — with an internatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
