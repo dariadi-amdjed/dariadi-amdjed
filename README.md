@@ -1,45 +1,48 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#00ffbb;">Amdjed Dariadi</span></h1>
-<h3 align="center">🤖 Artificial Intelligence Researcher | Applied ML & Computer Vision</h3>
+<h1 align="center">Hi, I'm Amdjed Dariadi 👋</h1>
+
+<h3 align="center">AI Developer & Robotics Instructor · Medea, Algeria 🇩🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=AI+Researcher+%F0%9F%A7%A0;Deep+Learning+Enthusiast+%F0%9F%92%BB;AIAA+%26+NYAS+Academic+Leader+%F0%9F%8C%90;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=600&lines=AI+Developer+%F0%9F%A7%A0;Robotics+Instructor+%F0%9F%A4%96;NYAS+Junior+Academy+Member+%F0%9F%8C%90;Building+things+that+solve+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 Executive Summary
-> I am a high school researcher from **Algeria 🇩🇿** dedicated to advancing the field of **Artificial Intelligence**. My work focuses on developing intelligent frameworks that bridge the gap between theoretical machine learning and real-world applications. 
->
-> As an active member of the **New York Academy of Sciences (NYAS)**, I strive to contribute to the global scientific community through rigorous research and innovative AI-driven solutions. My ultimate goal is to lead pioneering research departments that shape the future of technology.
+### About Me
+
+I'm a 16-year-old developer and researcher from Medea, Algeria. I build AI tools that solve real-world problems — from hospital automation to emergency first-aid guidance. I'm also a volunteer instructor teaching Python & Robotics to 15+ students at Electrobotech.
+
+Currently leading **Aegis Pulse** — an AI first-aid app — with an international team through the **New York Academy of Sciences (NYAS) Junior Academy**.
 
 ---
 
-### 🔬 Research Focus & Expertise
+### 🧠 Languages & Libraries
 
-#### 🧠 Programming Languages and Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,lua,react,html,css,js,vite" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,js,react,html,css" />
 </p>
 
-#### 🛠️ Software and Technologies
+### 🛠️ Tools & Hardware
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,firebase,linux," />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,firebase,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 🚀 Key Research Projects
-| Project | Research Focus | Technical Stack |
-|:----------|:--------------|:------|
-| 🏥 **Medical AI Framework** | Investigating AI diagnostics & facial recognition for optimized hospital workflows. | Python, OpenCV, Computer Vision |
-| 🏫 **Smart Class Ecosystem** | Analyzing student engagement patterns using CV to automate resource allocation. | Python, IoT, Predictive Modeling |
-| 📊 **Advanced Data Insights** | Developing scalable architectures for real-time data visualization and analysis. | Python, Data Analytics |
+### 🚀 Projects
 
-> 📁 **Explore my technical repositories:** [Full Portfolio](https://github.com/dariadi-amdjed)
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🚑 **Aegis Pulse** *(in progress)* | AI app that guides bystanders through first-aid during emergencies. Built with an international team via NYAS. | Python · TensorFlow · Firebase |
+| 🏥 **Medical System** | Smart hospital system: face recognition for doctors, patient registration, Arduino medicine delivery robot. · 🥇 Gold Medal, National Robotics & AI Olympiad | Python · OpenCV · Arduino · Firebase |
+| 🏫 **SmartClass** | AI classroom management: automated CV attendance, IoT fire detection, real-time parent alerts. · 🥇 1st Place, Ministry of Education Innovation Award (Medea) | Python · OpenCV · Arduino |
+| 📊 **Data Insight Board** | Data analysis & visualization dashboard built while learning Python data analytics. | Python · Tkinter · CSV |
 
 ---
 
-### 📈 Scholarly Impact & Analytics
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&theme=radical" alt="Top Languages" />
@@ -47,7 +50,8 @@
 
 ---
 
-### 🌐 Academic & Professional Network
+### 🌐 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amdjed-dariadi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -60,12 +64,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&color=00ffbb&style=flat" alt="Profile Views" />
 </p>
-
----
-
-<p align="center"><i>"Innovation at the intersection of intelligence and purpose defines my journey."</i> — <b>Amdjed Dariadi</b> 🚀</p>
