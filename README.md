@@ -1,12 +1,12 @@
 # Hi, I'm Mohamed Amdjed Dariadi 👋
 
-### AI Student Researcher · Algeria 🇩🇿
+### AI Student & Builder · Algeria 🇩🇿
 
 ---
 
 ## 🧠 About Me
 
-I am a high school student from Algeria focused on artificial intelligence and robotics.
+I am a high school student from Algeria focused on artificial intelligence.
 I build real-world systems combining computer vision, machine learning, and embedded systems.
 
 I am a member of the **New York Academy of Sciences (NYAS) Junior Academy**, where I collaborate with international teams on innovation challenges.
