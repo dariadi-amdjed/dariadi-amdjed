@@ -32,7 +32,7 @@ where I collaborate with international teams on innovation challenges.
   Smart healthcare system with AI diagnostics,
   patient management, and Arduino-based automation.
 
-- 🚑 **Aegis Pulse** *(In Progress)*
+- 🚑 **Aegis Pulse** 
   AI-powered first-aid guidance system built with
   an international team through NYAS.
 
