@@ -28,10 +28,6 @@ where I collaborate with international teams on innovation challenges.
   AI-powered classroom system using face recognition,
   IoT safety monitoring, and real-time parent notifications.
 
-- 🏥 **Medical System**
-  Smart healthcare system with AI diagnostics,
-  patient management, and Arduino-based automation.
-
 - 🚑 **Aegis Pulse** 
   AI-powered first-aid guidance system built with
   an international team through NYAS.
@@ -40,16 +36,9 @@ where I collaborate with international teams on innovation challenges.
 
 ## 🛠️ Skills
 
-- **Programming:** Python, C++, JavaScript / TypeScript
-- **AI & CV:** Machine Learning, Computer Vision (OpenCV)
-- **Hardware:** Arduino, Embedded Systems
-- **Tools:** Git, GitHub, LaTeX
-
----
-
-## 🌍 Goal
-
-To study AI at a top university and build systems that solve real problems.
+- **Programming:** Python, C++, JavaScript, TypeScript
+- **Frameworks:** Next.js, Flask, React
+- **Tools:** Git, Linux, LaTeX
 
 ---
 
@@ -57,3 +46,4 @@ To study AI at a top university and build systems that solve real problems.
 
 - Email: [daryadiamdjed@gmail.com](mailto:daryadiamdjed@gmail.com)
 - LinkedIn: [amdjed-dariadi](https://www.linkedin.com/in/amdjed-dariadi/)
+ر
