@@ -42,9 +42,6 @@ where I collaborate with international teams on innovation challenges.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](...)
 
 ## 📫 Contact
 
