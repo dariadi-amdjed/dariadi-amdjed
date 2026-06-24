@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 I'm a high school student from Algeria building real-world AI systems.
-My focus is on computer vision, machine learning, and embedded systems —
+My focus is on artificial intelligence, machine learning, and embedded systems —
 I care about solutions that work outside a notebook.
 
 I'm a member of the **New York Academy of Sciences (NYAS) Junior Academy**,
@@ -36,14 +36,17 @@ where I collaborate with international teams on innovation challenges.
 
 ## 🛠️ Skills
 
-- **Programming:** Python, C++, JavaScript, TypeScript
-- **Frameworks:** Next.js, Flask, React
-- **Tools:** Git, Linux, LaTeX
+- **Programming:** Python, C++, C, TypeScript, Html, Lua
+- **Frameworks:** Flask, React, TensorFlow, PyTorch, Flask, OpenCV
+- **Tools:** Git, Linux, LaTeX, Arduino
 
 ---
+
+## 📊 GitHub Stats
+
+![Stats](...)
 
 ## 📫 Contact
 
 - Email: [daryadiamdjed@gmail.com](mailto:daryadiamdjed@gmail.com)
 - LinkedIn: [amdjed-dariadi](https://www.linkedin.com/in/amdjed-dariadi/)
-ر
