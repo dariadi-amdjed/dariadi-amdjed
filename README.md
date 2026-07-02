@@ -16,7 +16,7 @@ where I collaborate with international teams on innovation challenges.
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medal** — National Robotics & AI Olympiad
+- 🥇 **Medal** — National Robotics & AI Olympiad
 - 🏅 **1st Place** — State Innovation Award, Médéa
 - 🎓 **Member** — New York Academy of Sciences, Junior Academy
 
