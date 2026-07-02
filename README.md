@@ -16,9 +16,8 @@ where I collaborate with international teams on innovation challenges.
 
 ## 🏆 Achievements
 
-- 🥇 **Medal** — National Robotics & AI Olympiad
 - 🏅 **1st Place** — State Innovation Award, Médéa
-- 🎓 **Member** — New York Academy of Sciences, Junior Academy
+- 🌍 Completed the Human-Centered AI Challenge — The New York Academy of Sciences Junior Academy (Aegis Pulse)
 
 ---
 
