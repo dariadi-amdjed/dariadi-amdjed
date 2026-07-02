@@ -21,18 +21,6 @@ where I collaborate with international teams on innovation challenges.
 
 ---
 
-## 🚀 Projects
-
-- 🏫 **SmartClass**
-  AI-powered classroom system using face recognition,
-  IoT safety monitoring, and real-time parent notifications.
-
-- 🚑 **Aegis Pulse** 
-  AI-powered first-aid guidance system built with
-  an international team through NYAS.
-
----
-
 ## 🛠️ Skills
 
 - **Programming:** Python, C++, C, TypeScript, Html, Lua
