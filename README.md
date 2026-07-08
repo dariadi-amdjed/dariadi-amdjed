@@ -24,7 +24,7 @@ where I collaborate with international teams on innovation challenges.
 ## 🛠️ Skills
 
 - **Programming:** Python, C++, C, TypeScript, Html, Lua
-- **Frameworks:** Flask, React, TensorFlow, PyTorch, Flask, OpenCV
+- **Frameworks:** Flask, React, TensorFlow, PyTorch, OpenCV
 - **Tools:** Git, Linux, LaTeX, Arduino
 
 ---
