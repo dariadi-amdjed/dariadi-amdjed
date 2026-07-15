@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 I'm a high school student from Algeria building real-world AI systems.
-My focus is on artificial intelligence, machine learning, and Quantum Computing —
+My focus is on artificial intelligence and machine learnin —
 I care about solutions that work outside a notebook.
 
 I'm a member of the **New York Academy of Sciences (NYAS) Junior Academy**,
