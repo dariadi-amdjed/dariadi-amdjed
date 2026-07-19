@@ -1,36 +1,25 @@
-# Hi, I'm Mohamed Amdjed Dariadi 👋
-### AI Student & Builder · Algeria 🇩🇿
-
----
+Hi, I'm Mohamed Amdjed Dariadi 👋
+Interested in artificial intelligence, machine learning and data engineering.
 
 ## 🧠 About Me
+I'm a high school student from Algeria focused on Artificial Intelligence, 
+Machine Learning, Cloud and Data Engineering. I care about systems that work 
+outside a notebook.
 
-I'm a high school student from Algeria building real-world AI systems.
-My focus is on artificial intelligence and machine learnin —
-I care about solutions that work outside a notebook.
-
-I'm a member of the **New York Academy of Sciences (NYAS) Junior Academy**,
-where I collaborate with international teams on innovation challenges.
-
----
+I'm a member of the New York Academy of Sciences (NYAS) Junior Academy, 
+where I collaborate with international teams on research-driven 
+innovation challenges.
 
 ## 🏆 Achievements
-
-- 🏅 **1st Place** — State Innovation Award, Médéa
-- 🌍 Completed the Human-Centered AI Challenge — The New York Academy of Sciences Junior Academy (Aegis Pulse)
-
----
+- 🥇 1st Place — School Innovation Award, Wilaya of Médéa (SmartClass)
+- 📄 Published research — Aegis Pulse: A Human-Centered AI Conceptual 
+  Framework, NYAS Junior Academy Human-Centered AI Challenge (Zenodo)
 
 ## 🛠️ Skills
-
-- **Programming:** Python, C++, C, TypeScript, Html, Lua
-- **Frameworks:** Flask, React, TensorFlow, PyTorch, OpenCV
-- **Tools:** Git, Linux, LaTeX, Arduino
-
----
-
+**Languages:** Python, C++, C, Java, Lua  
+**AI/ML/Data:** TensorFlow, PyTorch, OpenCV, scikit-learn, NumPy, Pandas  
+**Tools:** Git, Linux, LaTeX
 
 ## 📫 Contact
-
-- Email: [daryadiamdjed@gmail.com](mailto:daryadiamdjed@gmail.com)
-- LinkedIn: [amdjed-dariadi](https://www.linkedin.com/in/amdjed-dariadi/)
+Email: daryadiamdjed@gmail.com  
+LinkedIn: [amdjed-dariadi](https://www.linkedin.com/in/amdjed-dariadi/)
