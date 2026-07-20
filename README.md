@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Amdjed Dariadi 👋
 
-High School Student from Algeria | Aspiring AI & Robotics Engineer | NYAS Junior Academy Member
+High School Student from Algeria | Aspiring AI & Machine Learning R&D | NYAS Junior Academy Member
 
 ---
 
@@ -8,7 +8,7 @@ High School Student from Algeria | Aspiring AI & Robotics Engineer | NYAS Junior
 
 - 🏫 High school student with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Robotics**.
 - 🔬 Member of **The New York Academy of Sciences (NYAS) Junior Academy**, collaborating on global research challenges.
-- 🛠️ Passionate about designing practical AI frameworks and embedded hardware-software systems.
+- 🛠️ Passionate about designing practical AI frameworks and systems.
 - 🎯 Currently building research foundations, expanding my technical skill set, and exploring open-source projects.
 
 ---
@@ -25,7 +25,7 @@ High School Student from Algeria | Aspiring AI & Robotics Engineer | NYAS Junior
 
 - **Languages:** Python, C++, C, Java, Lua
 - **AI & Data:** TensorFlow, PyTorch, OpenCV, Scikit-Learn, NumPy, Pandas
-- **Hardware & IoT:** Arduino, PyFirmata, Sensors & Actuators
+- **Hardware & IoT:** Arduino, PyFirmata
 - **Tools & Methodologies:** Git, GitHub, Linux, LaTeX, JSON, Scientific Research
 
 ---
