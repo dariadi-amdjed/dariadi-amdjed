@@ -1,9 +1,9 @@
 Hi, I'm Mohamed Amdjed Dariadi 👋
-Interested in artificial intelligence, machine learning and data engineering.
+Interested in artificial intelligence, machine learning and Robotics.
 
 ## 🧠 About Me
 I'm a high school student from Algeria focused on Artificial Intelligence, 
-Machine Learning, Cloud and Data Engineering. I care about systems that work 
+Machine Learning and Robotics. I care about systems that work 
 outside a notebook.
 
 I'm a member of the New York Academy of Sciences (NYAS) Junior Academy, 
@@ -17,7 +17,7 @@ innovation challenges.
 
 ## 🛠️ Skills
 **Languages:** Python, C++, C, Java, Lua  
-**AI/ML/Data:** TensorFlow, PyTorch, OpenCV, scikit-learn, NumPy, Pandas  
+**Libary:** TensorFlow, PyTorch, OpenCV, scikit-learn, NumPy, Pandas, pyfirmata
 **Tools:** Git, Linux, LaTeX
 
 ## 📫 Contact
