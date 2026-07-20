@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Amdjed Dariadi 👋
 
-High School Student from Algeria | Aspiring AI & Machine Learning R&D | NYAS Junior Academy Member
+High School Student from Algeria | Aspiring AI/ML and Robotics Engineering | NYAS Junior Academy Member
 
 ---
 
