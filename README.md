@@ -15,7 +15,7 @@ High School Student from Algeria | Aspiring AI/ML and Robotics Engineering | NYA
 
 ### 🏆 Key Achievements & Research
 
-- 📄 **Research Publication:** Co-authored *"Aegis Pulse: A Human-Centered AI Conceptual Framework for Exploring Bystander Trauma Care Design During the Platinum Ten Minutes"* (Published on **Zenodo**).
+- 🌍 **Human-Centered AI Challenge (NYAS Junior Academy):** Led a 3-member international team to develop Aegis Pulse and co-authored its conceptual research paper, published on Zenodo.
 - 🥇 **1st Place:** Regional Winner at the National School Innovation Competition (Wilaya of Médéa) for the **SmartClass** AI/IoT system.
 - 🏅 **Participant & Awardee:** National Robotics & AI Olympiad (organized by *New Gate Robot*, July 2025).
 
