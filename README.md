@@ -1,11 +1,10 @@
 # Hi there, I'm Mohamed Amdjed Dariadi 👋
 
-**High School Student from Algeria** | Aspiring AI/ML & Electrical Engineering | Robotics | NYAS Junior Academy Member
+**High School Student from Algeria** | Interested in AI/ML & Robotics Engineering | NYAS Junior Academy Member
 
 <p align="left">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Electrical%20Engineering-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Robotics-black?style=flat-square" />
 </p>
 
@@ -13,10 +12,10 @@
 
 ### 🧠 About Me
 
-- 🏫 High school student with a strong focus on **Artificial Intelligence**, **Machine Learning**, **Electrical Engineering**, and **Robotics**.
+- 🏫 High school student with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Robotics**.
 - 🔬 Member of **The New York Academy of Sciences (NYAS) Junior Academy**, collaborating on international research challenges.
 - 🛠️ I learn by building — I like taking on projects slightly beyond my current skill level and picking up new tools along the way.
-- 🎯 Currently building research foundations, strengthening my technical skills, and preparing for future studies in Engineering and CE.
+- 🎯 Currently building research foundations, strengthening my technical skills, and preparing for future studies in Engineering and Computer Engineering.
 
 ---
 
