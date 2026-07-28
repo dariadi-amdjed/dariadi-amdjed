@@ -69,11 +69,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amdjed-dariadi&show_icons=true&theme=default&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdjed-dariadi&layout=compact&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=default&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&hide_title=true" height="165" />
 </p>
-
-> Replace `amdjed-dariadi` above with your exact GitHub username if different — these widgets pull live data automatically.
 
 ---
 
