@@ -22,7 +22,7 @@
 
 ### 🏆 Key Achievements & Research
 
-- 🥇 **1st Place (Wilaya of Médéa level) — National School Innovation Competition**, Ministry of National Education of Algeria (Apr 2026), for **SmartClass** — an AI-powered smart classroom system integrating computer vision, automated attendance, parent notifications, and safety monitoring.
+- 🥇 **1st Place (Médéa Province Level) — National School Innovation Competition**, Ministry of National Education of Algeria (Apr 2026), for **SmartClass** — an AI-powered smart classroom system integrating computer vision, automated attendance, parent notifications, and safety monitoring.
 - 🌍 **Human-Centered AI Challenge (NYAS Junior Academy):** Led a 3-member international student team to develop **Aegis Pulse**, a conceptual research project on AI-assisted bystander support during emergencies. Co-authored the research paper, published open-access on Zenodo. *(Certificate of Participation & Active Membership.)*
 - 🏅 **Participant** — National Robotics & AI Olympiad (organized by New Gate Robot, July 2025).
 
