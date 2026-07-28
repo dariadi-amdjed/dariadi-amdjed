@@ -16,7 +16,7 @@
 - 🏫 High school student with a strong focus on **Artificial Intelligence**, **Machine Learning**, **Electrical Engineering**, and **Robotics**.
 - 🔬 Member of **The New York Academy of Sciences (NYAS) Junior Academy**, collaborating on international research challenges.
 - 🛠️ I learn by building — I like taking on projects slightly beyond my current skill level and picking up new tools along the way.
-- 🎯 Currently building research foundations, strengthening my technical skills, and preparing for future studies in Engineering, CS, or AI.
+- 🎯 Currently building research foundations, strengthening my technical skills, and preparing for future studies in Engineering and CE.
 
 ---
 
@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
 </p>
 
 **AI & Data**
