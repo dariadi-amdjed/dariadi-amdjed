@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Robotics-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square" />
 </p>
 
 ---
