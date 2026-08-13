@@ -70,8 +70,9 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariadi-amdjed&" alt="dariadi-amdjed" /></p>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dariadi-amdjed&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&theme=onedark)
 
 ---
 
