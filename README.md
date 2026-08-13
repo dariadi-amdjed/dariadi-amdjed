@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&label=Profile%20views&color=0e75b6&style=flat" alt="dariadi-amdjed" /> </p>
+
+
 ---
 
 ### 🧠 About Me
@@ -67,10 +70,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=default&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&hide_title=true" height="165" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariadi-amdjed&" alt="dariadi-amdjed" /></p>
+
 
 ---
 
@@ -81,3 +82,5 @@
   <a href="https://linkedin.com/in/amdjed-dariadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://amdjed-dariadi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
+
+
