@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&label=Profile%20views&color=0e75b6&style=flat" alt="dariadi-amdjed" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&label=Profile%20views&color=0e75b6&style=flat" alt="dariadi-amdjed" />
+</p>
 
 ---
 
@@ -70,9 +71,14 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=onedark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dariadi-amdjed&theme=onedark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dariadi-amdjed&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dariadi-amdjed&show_icons=true&theme=onedark" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dariadi-amdjed&layout=compact&theme=onedark" height="165" />
+</p>
 
 ---
 
@@ -83,5 +89,3 @@
   <a href="https://linkedin.com/in/amdjed-dariadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://amdjed-dariadi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
-
-
