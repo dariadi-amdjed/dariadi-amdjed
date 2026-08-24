@@ -1,11 +1,11 @@
 # Hi there, I'm Mohamed Amdjed Dariadi 👋
 
-**High School Student from Algeria** | Interested in AI and Electronics | NYAS Junior Academy Member
+**High School Student from Algeria** | Interested in AI/ML Engineering | Embedded Systems | NYAS Junior Academy Member
 
 <p align="left">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Electronics-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square" />
 </p>
 
 <p align="left">
@@ -16,10 +16,10 @@
 
 ### 🧠 About Me
 
-- 🏫 High school student with a strong focus on **Artificial Intelligence** and **Electronics**.
+- 🏫 High school student with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Embedded Systems**.
 - 🔬 Member of **The New York Academy of Sciences (NYAS) Junior Academy**, collaborating on international research challenges.
 - 🛠️ I learn by building — I like taking on projects slightly beyond my current skill level and picking up new tools along the way.
-- 🎯 Currently building research foundations, strengthening my technical skills, and preparing for future studies in engineering.
+- 🎯 Currently building research foundations, strengthening my technical skills, and preparing for future studies in Engineering and Computer Engineering.
 
 ---
 
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square" />
 </p>
 
-**Electronics & Hardware**
+**Hardware & Embedded Systems**
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
@@ -89,3 +89,5 @@
   <a href="https://linkedin.com/in/amdjed-dariadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://amdjed-dariadi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
+
+
