@@ -9,38 +9,40 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&label=Profile%20views&color=0e75b6&style=flat" alt="dariadi-amdjed" />
+  <img src="https://komarev.com/ghpvc/?username=dariadi-amdjed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🏫 High school student who likes building things that combine code and hardware — systems that work in the real world, not just on a screen.
-- 🔬 Member of **The New York Academy of Sciences (NYAS) Junior Academy**, collaborating on international research challenges.
-- 🛠️ I learn by building — I take on projects slightly beyond what I currently know, and pick up new tools along the way.
-- 🎯 Currently strengthening my technical skills in embedded systems and robotics, and preparing for future studies in Engineering.
+- 🏫 High school student interested in building systems that bring software and hardware together.
+- 🔬 Member of **The New York Academy of Sciences (NYAS) Junior Academy**, taking part in international research challenges.
+- 🛠️ I learn through hands-on projects, exploring new technologies and applying them to practical problems.
+- 🎯 Currently developing my skills in embedded systems, robotics, and computer vision, with the goal of pursuing engineering studies.
 
 ---
 
-### 🏆 Key Achievements & Research
+### 🏆 Achievements & Projects
 
-- 🥇 **1st Place (Médéa Province Level) — School Innovation Award** (a national competition), Ministry of National Education of Algeria (Apr 2026), for **SmartClass** — a classroom system integrating computer vision, automated attendance, parent notifications, and safety monitoring. I built the AI and software side; My Friend built the hardware.
-- 🌍 **Human-Centered AI Challenge (NYAS Junior Academy):** Led a 3-member international student team through the NYAS Junior Academy Human-Centered AI Challenge. Developed Aegis Pulse, a human-centered AI conceptual research project focused on exploring bystander support during the early stages of trauma care. *(Certificate of Participation & Active Membership.)*
-- 🏅 **Participant** — National Robotics & AI Olympiad (organized by New Gate Robot, July 2025).
+- 🥇 **1st Place — School Innovation Competition (Médéa Province Level)** | Ministry of National Education of Algeria, April 2026. Recognized for **SmartClass**, a classroom system combining computer vision, automated attendance, parent notifications, and safety monitoring. I developed the AI and software components, while my teammate handled the hardware.
+
+- 🌍 **NYAS Junior Academy — Human-Centered AI Challenge** | Led a three-member international student team working on **Aegis Pulse**, a conceptual research project exploring how human-centered AI interfaces could support bystanders during the early stages of trauma care. Received a Certificate of Participation and Active Membership.
+
+- 🏅 **Participant — National Robotics & AI Olympiad** | Organized by New Gate Robot, July 2025.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technologies & Tools
 
-**Languages**
+**Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
 
-**Computer Vision & AI**
+**Computer Vision & Data**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -48,7 +50,7 @@
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square" />
 </p>
 
-**Embedded Systems & Robotics**
+**Embedded Systems & Hardware**
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
@@ -58,7 +60,7 @@
   <img src="https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square" />
 </p>
 
-**Tools & Environment**
+**Tools & Development Environment**
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
