@@ -26,7 +26,7 @@
 ### 🏆 Key Achievements & Research
 
 - 🥇 **1st Place (Médéa Province Level) — School Innovation Award** (a national competition), Ministry of National Education of Algeria (Apr 2026), for **SmartClass** — a classroom system integrating computer vision, automated attendance, parent notifications, and safety monitoring. I built the AI and software side; My Friend built the hardware.
-- 🌍 **Human-Centered AI Challenge (NYAS Junior Academy):** Led a 3-member international student team to develop **Aegis Pulse**, a conceptual research project on AI-informed interface design for bystander support during emergencies. Co-authored the research paper, published open-access on Zenodo. *(Certificate of Participation & Active Membership.)*
+- 🌍 **Human-Centered AI Challenge (NYAS Junior Academy):** Led a 3-member international student team through the NYAS Junior Academy Human-Centered AI Challenge. Developed Aegis Pulse, a human-centered AI conceptual research project focused on exploring bystander support during the early stages of trauma care. *(Certificate of Participation & Active Membership.)*
 - 🏅 **Participant** — National Robotics & AI Olympiad (organized by New Gate Robot, July 2025).
 
 ---
